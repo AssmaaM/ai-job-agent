@@ -1,5 +1,5 @@
 
-<img width="700" height="225" alt="yu" src="https://github.com/user-attachments/assets/24f55c0f-e58d-4319-9e5c-2d2169ce2254" />
+<img width="700" height="300" alt="yu" src="https://github.com/user-attachments/assets/24f55c0f-e58d-4319-9e5c-2d2169ce2254" />
 
 # 🤖 AutoJob AI Agent
 
