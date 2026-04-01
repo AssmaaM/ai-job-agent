@@ -100,7 +100,7 @@ Edit sidebar settings:
 
 | Variable | Required | Description |
 |----------|----------|-------------|
-| `OPENAI_API_KEY` | Yes | Your OpenAI API key for GPT-4o-mini |
+| `OPENAI_API_KEY` | Yes | Your OpenAI API key |
 
 Store in `.env` file (never commit this)
 
