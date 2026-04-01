@@ -1,4 +1,5 @@
-<img width="958" height="428" alt="hjn" src="https://github.com/user-attachments/assets/ce9ffbc3-b76c-4641-9950-21d35b165f8e" />
+
+<img width="700" height="225" alt="yu" src="https://github.com/user-attachments/assets/24f55c0f-e58d-4319-9e5c-2d2169ce2254" />
 
 # 🤖 AutoJob AI Agent
 
