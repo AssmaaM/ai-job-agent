@@ -1,3 +1,5 @@
+<img width="958" height="428" alt="hjn" src="https://github.com/user-attachments/assets/ce9ffbc3-b76c-4641-9950-21d35b165f8e" />
+
 # 🤖 AutoJob AI Agent
 
 Intelligent job search, AI-powered relevance scoring, and personalized application generation — all in one place.
