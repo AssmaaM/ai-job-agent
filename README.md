@@ -118,16 +118,7 @@ The agent uses **strict semantic filtering** to return only relevant results:
 
 ## API Sources
 
-All data comes from **real, live public APIs** (no mock fallback):
-
-1. **RemoteOK** - Remote tech jobs
-2. **Remotive** - Remote jobs across categories
-3. **Arbeitnow** - Pan-European remote + location jobs
-4. **Jobicy** - Remote tech-specific jobs
-5. **LinkedIn** - Guest API (broad professional jobs)
-6. **Indeed** - HTML scraping (location-specific jobs)
-
-Results are merged, deduplicated, and limited to 8 total jobs per search.
+All data comes from **real, live public APIs** (no mock fallback)
 
 ## Memory & History
 
@@ -162,16 +153,12 @@ Edit `tools/job_search.py` and add a `_scrape_newsource()` function
 Edit `tools/job_matcher.py` → `score_job()` function
 
 ### Adjusting Filtering
-Edit `tools/job_search.py` → `_query_hits()` function (lines ~71-140)
+Edit `tools/job_search.py` → `_query_hits()` function 
 
 ## License
 
 MIT License - feel free to use and modify
 
-## Support
 
-Issues or suggestions? Create a GitHub issue or reach out!
 
----
 
-Built with ❤️ using Streamlit + OpenAI GPT-4o-mini
